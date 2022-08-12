@@ -44,7 +44,7 @@ Web Developer
 <a href="https://github.com/RafaelPires2" align="right"><img  width="267em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPires2&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
-![Snake animation](https://github.com/RafaelPires2/RafaelPires2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RafaelPires2/README.md/blob/output/github-contribution-grid-snake.svg)
 
 ### Um pouco sobre mim
 
