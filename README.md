@@ -46,23 +46,21 @@ Web Developer
 
 ![Snake animation](https://github.com/RafaelPires2/RafaelPires2/blob/output/github-contribution-grid-snake.svg)
 
-### Um pouco sobre mim
+### Apresentação
 
-Tenho 28 anos, sou casado a 5 anos e pai de uma menina linda de 2 anos. 
+Me chamo Rafael, tenho 28 anos, casado a cinco, temos uma filha linda de 2 anos. Sempre tive interesse pela programação porém nunca tinha parado para estudar, como casei cedo precisei trabalhar bastante para conseguir pagar a festa e também construir nossa casa, e logo em seguida nossa filha nasceu. 
 
-Estou estudando programação a 2 meses, iniciando por Kotlin e voltando a base HTML, CSS e JavaScript,
-sempre tive interesse pela programação, mas nunca tinha parado para me dedicar,
-hoje estou full time no estudo, estudando das 4/5h às 16h.
+Sendo assim trabalhei aproximadamente 3 anos em dois serviços ao mesmo tempo para conseguir complementar a renda.
 
-Estou Em busca da primeira oportunidade como Dev. Junior/Trainee independente da área,
-quero melhorar minhas habilidades e absorver o máximo de experiência.
+Depois que conseguimos construir e mudar, pedi as contas da empresa e iniciei na jornada empreendedora onde vendia semi-jóias em plataformas online.
 
-Trabalhei durante 7 anos em escritório de despachante, onde lidava com dezenas
-de clientes diariamente e também tinha interação com equipe.
+Com os 7 anos de trabalho em escritório, mais os 3 anos em uma hamburgueria pude aprender e aperfeiçoar muito as minhas soft skills, lidava diariamente com dezenas de clientes todos os dias, e também aprendi a trabalhar em equipe e sob pressão. Como empreendedor aprendi muito sobre gerenciamento de tempo e recursos, como gestão de caixa e empresa. 
 
-Nesse mesmo tempo trabalhei como garçom e caixa em uma hamburgueria durante quase 3 anos, 
-para poder completar a renda, casar e construir minha casa. 
-Onde pude entender muito melhor sobre desenvolvimento pessoal, trabalhar sob pressão e trabalho em equipe.
+Como empreendedor comecei a ter mais tempo, então decidi estudar programação que já tinha o desejo, desde de então estou aperfeiçoando minhas habilidades e aprendendo todos os dias coisas novas. 
 
-Sou muito esforçado, aprendo rápido, sou flexível e estou aberto a aprender e ser modelado.
-Sei que posso somar com aquele que tiver disponibilidade para me recrutar.
+Hoje sou perfeitamente capaz de criar e desenvolver websites, portfólios, landing pages. sites institucionais. Estou me aperfeiçoando todos os dias para aprender e consolidar meus conhecimentos.
+
+Atualmente estou em busca de uma oportunidade visando
+conhecimento. 
+
+Desde já agradeço. Rafael Pires.
