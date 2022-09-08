@@ -9,7 +9,7 @@ Web Developer
 
 * 🧠 Estudando Desenvolvimento Web Front-end
 * 🌍 Poá - São Paulo
-* 🖥️ Portolio [📝Desenvolvendo]
+* 🖥️ Portolio [📝https://portfolio-rafa-dev.vercel.app/]
 * ✉️ E-Mail [📩 rafaelbrpires@gmail.com](mailto:rafaelbrpires@gmail.com)
 * 🤝 Aberto à propostas de estágio e senioridade _trainee_/júnior
 ##
