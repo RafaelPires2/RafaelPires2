@@ -48,19 +48,35 @@ Web Developer
 
 ### Apresentação
 
-Me chamo Rafael, tenho 28 anos, casado a cinco, temos uma filha linda de 2 anos. Sempre tive interesse pela programação porém nunca tinha parado para estudar, como casei cedo precisei trabalhar bastante para conseguir pagar a festa e também construir nossa casa, e logo em seguida nossa filha nasceu. 
+Me chamo Rafael, sou pai da Lorena, iniciei meu primeiro contato com a programação utilizando a lógica nos projetos de VBA no Excel e posteriormente criando um site no wordpress para minha empresa no ramo de e-commerce. Trago boas experiências dos meus 7 anos em escritório e 3 anos em fast-food onde consegui desenvolver bastante minhas softs-skills de comunicação, trabalho em equipe, e organização de tempo.
 
-Sendo assim trabalhei aproximadamente 3 anos em dois serviços ao mesmo tempo para conseguir complementar a renda.
+Em paralelo a minha jornada no empreendedorismo iniciei os estudos em programação, desde então venho aperfeiçoando minhas habilidades e aprendendo coisas novas todos os dias.
 
-Depois que conseguimos construir e mudar, pedi as contas da empresa e iniciei na jornada empreendedora onde vendia semi-jóias em plataformas online.
+Hoje atuo com desenvolvimento de websites, portfólios, landing pages. sites institucionais, utilizando as stacks: 
 
-Com os 7 anos de trabalho em escritório, mais os 3 anos em uma hamburgueria pude aprender e aperfeiçoar muito as minhas soft skills, lidava diariamente com dezenas de clientes todos os dias, e também aprendi a trabalhar em equipe e sob pressão. Como empreendedor aprendi muito sobre gerenciamento de tempo e recursos, como gestão de caixa e empresa. 
+- React JS
+- TypeScript 
+- JavaScript 
+- Figma 
+- Styled-Components 
+- HTML
+- CSS
+- GIT
+- GitHub
+- SASS 
+- Tailwind CSS
 
-Como empreendedor comecei a ter mais tempo, então decidi estudar programação que já tinha o desejo, desde de então estou aperfeiçoando minhas habilidades e aprendendo todos os dias coisas novas. 
 
-Hoje sou perfeitamente capaz de criar e desenvolver websites, portfólios, landing pages. sites institucionais. Estou me aperfeiçoando todos os dias para aprender e consolidar meus conhecimentos.
+Tenho conhecimentos em:
 
-Atualmente estou em busca de uma oportunidade visando
-conhecimento. 
+- Node
+- SQL
+- Postgree
+- Express
+- WordPress / WooCommerce
+- Vercel
 
-Desde já agradeço. Rafael Pires.
+Contatos:
+
+Whattsapp: (11) 96308-7708
+Email: rafaelbrpires@gmail.com
