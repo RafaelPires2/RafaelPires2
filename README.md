@@ -9,7 +9,6 @@ Web Developer
 
 * 🧠 Developer Front-end ReactJs
 * 🌍 Poá - São Paulo
-* 🖥️ Portolio [📝https://portfolio-rafa-dev.vercel.app/]
 * ✉️ E-Mail [📩 rafaelbrpires@gmail.com](mailto:rafaelbrpires@gmail.com)
 * 🤝 Aberto à propostas.
 ##
