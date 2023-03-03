@@ -1,15 +1,13 @@
-
-
-
 Olá 👋 eu sou o Rafael Pires
 ================================
 
 Web Developer
 -------------
 
+* 📚 Análise e Desenvolvimento de sistemas (cursando)
 * 🧠 Developer Front-end ReactJs
 * 🌍 Poá - São Paulo
-* ✉️ E-Mail [📩 rafaelbrpires@gmail.com](mailto:rafaelbrpires@gmail.com)
+* ✉️ E-Mail [📩 devrafaelpires@gmail.com](mailto:devrafaelpires@gmail.com)
 * 🤝 Aberto à propostas.
 ##
 ### Skills
@@ -40,7 +38,6 @@ Web Developer
 <a href="http://www.github.com/RafaelPires2"><img height="154em" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelPires2&stroke=ffffff&background=181824&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-<a href="http://www.github.com/RafaelPires2" align="left"><img height="180em" src="https://activity-graph.herokuapp.com/graph?username=RafaelPires2&bg_color=181824&color=ffffff&line=3382ed&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/RafaelPires2" align="right"><img  width="267em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPires2&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
@@ -65,18 +62,20 @@ Hoje atuo com desenvolvimento de websites, portfólios, landing pages. sites ins
 - GitHub
 - SASS 
 - Tailwind CSS
+- Bootstrap
+- Consumo APIs
+- Metodologias Agéis: Scrum | Kanban
 
 
 Tenho conhecimentos em:
 
-- Node
+- NodeJs
 - SQL
-- Postgree
 - Express
 - WordPress / WooCommerce
 - Vercel
 
 Contatos:
 
-Whattsapp: (11) 96308-7708
-Email: rafaelbrpires@gmail.com
+Whattsapp: (11) 93906-1460
+Email: devrafaelpires@gmail.com
