@@ -4,8 +4,8 @@ Olá 👋 eu sou o Rafael Pires
 Web Developer
 -------------
 
+* 🧠 Developer Front-end Web e Mobile / ReactJs e React-Native
 * 📚 Análise e Desenvolvimento de sistemas (cursando)
-* 🧠 Developer Front-end ReactJs
 * 🌍 Poá - São Paulo
 * ✉️ E-Mail [📩 devrafaelpires@gmail.com](mailto:devrafaelpires@gmail.com)
 * 🤝 Aberto à propostas.
@@ -41,16 +41,16 @@ Web Developer
 <a href="https://github.com/RafaelPires2" align="right"><img  width="267em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPires2&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
-![Snake animation](https://github.com/RafaelPires2/RafaelPires2/blob/output/github-contribution-grid-snake.svg)
 
 ### Apresentação
 
-Me chamo Rafael, sou pai da Lorena, iniciei meu primeiro contato com a programação utilizando a lógica nos projetos de VBA no Excel e posteriormente criando um site no wordpress para minha empresa no ramo de e-commerce. Trago boas experiências dos meus 7 anos em escritório e 3 anos em fast-food onde consegui desenvolver bastante minhas softs-skills de comunicação, trabalho em equipe, e organização de tempo.
+Como desenvolvedor Front-end no Instituto Taqtile, tenho como foco desenvolver e aprimorar sistemas web e mobile utilizando React e React Native, sempre visando uma melhor experiência do usuário e satisfação do cliente.
 
-Em paralelo a minha jornada no empreendedorismo iniciei os estudos em programação, desde então venho aperfeiçoando minhas habilidades e aprendendo coisas novas todos os dias.
+Sempre me desafiando a melhorar tecnicamente e como pessoa, tenho tido oportunidades de participar de reuniões com clientes, e tomar frente de algumas reuniões com time, assim como participar ativamente de workshops visando compartilhar experiências e conhecimentos.
 
-Hoje atuo com desenvolvimento de websites, portfólios, landing pages. sites institucionais, utilizando as stacks: 
+Hoje atuo com desenvolvimento de apps, websites, utilizando as stacks: 
 
+- React-Native
 - React JS
 - TypeScript 
 - JavaScript 
@@ -77,5 +77,4 @@ Tenho conhecimentos em:
 
 Contatos:
 
-Whattsapp: (11) 93906-1460
 Email: devrafaelpires@gmail.com
