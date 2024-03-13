@@ -1,10 +1,10 @@
 Olá 👋 eu sou o Rafael Pires
 ================================
 
-Web Developer
+Mobile/Web Developer
 -------------
 
-* 🧠 Developer Front-end Web e Mobile / ReactJs e React-Native
+* 🧠 Desenvolvedor Front-end Mobile e Web / React-Native e ReactJs
 * 📚 Análise e Desenvolvimento de sistemas (cursando)
 * 🌍 Poá - São Paulo
 * ✉️ E-Mail [📩 devrafaelpires@gmail.com](mailto:devrafaelpires@gmail.com)
