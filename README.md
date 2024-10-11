@@ -8,6 +8,7 @@ Mobile/Web Developer
 * 📚 Análise e Desenvolvimento de sistemas (cursando)
 * 🌍 Poá - São Paulo
 * ✉️ E-Mail [📩 devrafaelpires@gmail.com](mailto:devrafaelpires@gmail.com)
+* 🌐 Portfólio - <a href="https://portfolio-rafa-dev.vercel.app/" target="_blank" rel="noreferrer">Ver</a>
 * 🤝 Aberto à propostas.
 ##
 ### Skills
