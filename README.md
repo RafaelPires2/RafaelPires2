@@ -33,12 +33,9 @@ Mobile/Web Developer
 ### Badges
 
 <b>My GitHub Stats</b>
-<div align="center">
+<div align="start">
 <a href="http://www.github.com/RafaelPires2"><img height="154em" src="https://github-readme-stats.vercel.app/api?username=RafaelPires2&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true" alt="RafaelPires2's GitHub stats" /></a>
 <a href="http://www.github.com/RafaelPires2"><img height="154em" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelPires2&stroke=ffffff&background=181824&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-<a href="https://github.com/RafaelPires2" align="right"><img  width="267em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPires2&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
 
@@ -50,26 +47,28 @@ Sempre me desafiando a melhorar tecnicamente e como pessoa, tenho tido oportunid
 
 Hoje atuo com desenvolvimento de apps, websites, utilizando as stacks: 
 
+
 - React-Native
-- React JS
-- TypeScript 
-- JavaScript 
-- Figma 
+- NextJs / React JS
+- TypeScript
+- HTML / CSS / JavaScript 
 - Styled-Components 
-- HTML
-- CSS
-- GIT
-- GitHub
-- SASS 
-- Tailwind CSS
-- Bootstrap
-- Consumo APIs
+- SASS - Tailwind CSS 
+- Bootstrap / AntDesing / MaterialUI / RadixUI
+- Refine.Dev
+- Consumo APIs / Axios / GraphQL
+- Zustand
+- Figma 
+- GIT - GitHub
 - Metodologias Agéis: Scrum | Kanban
+- Entre outras...
 
 
 Tenho conhecimentos em:
 
 - NodeJs
+- NestJs
+- Sanity
 - SQL
 - Express
 - WordPress / WooCommerce
